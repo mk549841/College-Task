@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style>body{background-image:url("static/images/building-new.jpg");
+background-repeat: no-repeat;background-size:cover;
+}</style>
+
+</head>
+<body>
+	<form method="POST" action="/book">
+		<p>Title:</p>
+		<p>
+			<input type='text' name='title' />
+		</p>
+		<p>Author:</p>
+		<p>
+			<input type='text' name='author' />
+		</p>
+		<p>Price:</p>
+		<p>
+			<input type='text' name='price' />
+		</p>
+		<p>
+			<input type='submit' value='Add' name="option" />
+			<input type='submit' value='Update' name="option" />
+			<input type='submit' value='Delete' name="option" />
+			<input type='submit' value='Show' name="option" />
+		</p>
+	</form>
+</body>
+</html>
