@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+
+
+<Phone xmlns:s1 = "www.google.com" xmlns:s2 = "www.google.com">
+<s1:mobile >
+	<s1:name>Moto E</s1:name>
+	<s1:ModelNo>123</s1:ModelNo>
+	<s1:Processor> Qualcomm Snapdragon 200 </s1:Processor>
+	<s1:Battery>2390 mAh</s1:Battery>
+</s1:mobile>
+
+<s2:mobile1 >
+<s2:name>Beetel M71 Landline</s2:name>
+<s2:ModelNo>456</s2:ModelNo>
+<s2:Display>LCD Screen</s2:Display>
+<s2:Corded>Yes</s2:Corded>
+</s2:mobile1>
+</Phone>

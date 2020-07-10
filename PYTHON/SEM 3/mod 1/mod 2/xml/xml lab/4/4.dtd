@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE catalog [
+<!ELEMENT catalog (product,catalog_item,price)>
+<!ELEMENT product (#PCDATA)>
+<!ELEMENT catalog_item (#PCDATA)>
+<!ELEMENT size (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+]>

@@ -1,0 +1,9 @@
+<?xml version="1.0" ?> 
+
+<StudentRegistrationForm> 
+	<name>Rahul</name> 
+	<Age>"16></Age> 
+	<Gender>Male</Gender> 
+	<Course>C Programming</Course>
+</StudentRegistrationForm> 
+

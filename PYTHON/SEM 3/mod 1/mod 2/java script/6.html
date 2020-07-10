@@ -1,0 +1,22 @@
+<html>
+<head>
+<script>
+
+function fun()
+{
+var n=document.getElementById("#").value;
+var d=n.split('');
+var sum=0;
+for(i=0;i<d.length;i++)
+{
+sum=sum+Number(d[i]);
+}
+alert(sum);
+}
+
+</script>
+<body>
+<form>
+	<p>Text Box <input type="text" id="#" placeholder="Enter someting">
+	<button type="button" onclick="fun()">Click Here!</button>
+</form>

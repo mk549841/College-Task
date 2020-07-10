@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!DOCTYPE note [
+  <!ELEMENT address    (name,company,phone)>
+  <!ELEMENT name      (#PCDATA)>
+  <!ELEMENT company    (#PCDATA)>
+  <!ELEMENT phone (#PCDATA)>
+]>
+
+
+<address>
+<name>Manju</name>
+<company>Wipro</company>
+<phone>"9092191952"</phone>
+</address>

@@ -1,0 +1,21 @@
+<html>
+<head>
+<script type="text/javascript">
+a=prompt("Enter aadhar nos");
+is(a);
+function is(str)
+{
+var creditPattern = /^\d{4}-\d{4}-\d{4}$/;
+if (creditPattern.test(str))
+{
+alert("Correct");
+}
+else
+{
+alert("Incorrect format");
+}
+}
+</script>
+</head>
+
+

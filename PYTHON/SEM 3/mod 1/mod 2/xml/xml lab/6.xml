@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<mukesh xmlns:s2 = "www.google.com" xmlns:s1 = "www.google.com" >
+
+<s1:student >
+   <s1:name>Mukesh</s1:name>
+   <s1:id>17M126</s1:id>
+   <s1:th_marks>100</s1:th_marks>
+   <s1:p_marks>100</s1:p_marks>
+   <s1:t_marks>100</s1:t_marks>
+   <s1:grade>100</s1:grade>
+</s1:student>
+
+<s2:student2 >
+   <s2:name>Mukesh</s2:name>
+   <s2:id>17M126</s2:id>
+   <s2:th_marks>100</s2:th_marks>
+   <s2:p_marks>100</s2:p_marks>
+   <s2:t_marks>100</s2:t_marks>
+   <s2:grade>100</s2:grade>
+</s2:student2>
+
+</mukesh>
